@@ -22,4 +22,7 @@ Sample Input:
 Sample Output: 0 1 
 Explanation: Search the element in the sorted matrix. If the element is present print 1 otherwise print 0. In the sample input,in first case 62 is not present in the matrix so 0 is printed. Similarly, for second case 55 is present in the matrix so 1 is printed.  
 Time Limit: 1 sec
+
+Concept used : Staircase search
+
 Language used : cpp
